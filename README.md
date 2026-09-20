@@ -6,7 +6,9 @@
 
 <br>
 
-<table>
+<div align="center">
+
+<table width="100%">
 <tr>
 <td width="55%" valign="top">
 
@@ -26,14 +28,16 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/SmokeFang"><img src="https://img.shields.io/badge/-GitHub-0d1117?style=flat-square&logo=github&logoColor=79c0ff" alt="GitHub" /></a>
-<a href="https://youtube.com/@YOUR_HANDLE"><img src="https://img.shields.io/badge/-YouTube-0d1117?style=flat-square&logo=youtube&logoColor=79c0ff" alt="YouTube" /></a>
-<a href="https://discord.gg/YOUR_INVITE"><img src="https://img.shields.io/badge/-Discord-0d1117?style=flat-square&logo=discord&logoColor=79c0ff" alt="Discord" /></a>
+<a href="https://github.com/SmokeFang"><img src="https://img.shields.io/badge/GitHub-21262d?style=for-the-badge&logo=github&logoColor=58a6ff" alt="GitHub" /></a>
+<a href="https://youtube.com/@YOUR_HANDLE"><img src="https://img.shields.io/badge/YouTube-21262d?style=for-the-badge&logo=youtube&logoColor=58a6ff" alt="YouTube" /></a>
+<a href="https://discord.gg/YOUR_INVITE"><img src="https://img.shields.io/badge/Discord-21262d?style=for-the-badge&logo=discord&logoColor=58a6ff" alt="Discord" /></a>
 </p>
 
 </td>
 </tr>
 </table>
+
+</div>
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/SmokeFang/SmokeFang/main/assets/divider.svg" width="100%" alt="" />
@@ -43,18 +47,14 @@
 <tr>
 <td width="50%" valign="top">
 
-### `01 // ABOUT`
 
-I'm **SmokeFang** — I build things, break things, figure out why they broke, and put them back together.
 
-- 🛠️ Building **ONYX**, a local AI assistant for Windows
-- ⛏️ Minecraft — survival, PvP, mods, optimization
-- 🐍 Python & Java
-- 🧪 Always experimenting with something new
+<h3 align="center">Legend</h3>
 
-</td>
-<td width="50%" valign="top">
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/SmokeFang/SmokeFang/main/assets/activity.svg" width="100%" alt="GitHub activity — Technoblade never dies" />
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/SmokeFang/SmokeFang/main/assets/technoblade.svg" width="100%" alt="Technoblade never dies" />
+
