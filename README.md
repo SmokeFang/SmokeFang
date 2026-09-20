@@ -29,8 +29,9 @@
 
 <p align="center">
 <a href="https://github.com/SmokeFang"><img src="https://img.shields.io/badge/GitHub-21262d?style=for-the-badge&logo=github&logoColor=58a6ff" alt="GitHub" /></a>
-<a href="https://youtube.com/@YOUR_HANDLE"><img src="https://img.shields.io/badge/YouTube-21262d?style=for-the-badge&logo=youtube&logoColor=58a6ff" alt="YouTube" /></a>
-<a href="https://discord.gg/YOUR_INVITE"><img src="https://img.shields.io/badge/Discord-21262d?style=for-the-badge&logo=discord&logoColor=58a6ff" alt="Discord" /></a>
+<a href="https://www.youtube.com/@SmokeFang"><img src="https://img.shields.io/badge/YouTube-21262d?style=for-the-badge&logo=youtube&logoColor=58a6ff" alt="YouTube" /></a>
+<a href="https://www.instagram.com/zyn.bot666"><img src="https://img.shields.io/badge/Instagram-21262d?style=for-the-badge&logo=instagram&logoColor=58a6ff" alt="Instagram" /></a>
+<img src="https://img.shields.io/badge/Discord-smoke.fang-21262d?style=for-the-badge&logo=discord&logoColor=58a6ff" alt="Discord: smoke.fang" />
 </p>
 
 </td>
@@ -49,7 +50,7 @@
 
 
 
-<h3 align="center">Legend</h3>
+<h3 align="center">Peak Minecraft Player</h3>
 
 <div align="center">
 
@@ -57,4 +58,8 @@
 
 <br><br>
 
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/SmokeFang/SmokeFang/main/assets/divider.svg" width="100%" alt="" />
+</div>
 
