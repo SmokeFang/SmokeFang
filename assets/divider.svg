@@ -1,0 +1,36 @@
+<svg width="1200" height="60" viewBox="0 0 1200 60" xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+  <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%"   stop-color="#0d1117"/>
+    <stop offset="20%"  stop-color="#1f6feb"/>
+    <stop offset="50%"  stop-color="#79c0ff"/>
+    <stop offset="80%"  stop-color="#1f6feb"/>
+    <stop offset="100%" stop-color="#0d1117"/>
+  </linearGradient>
+
+  <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+    <feGaussianBlur stdDeviation="3" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+</defs>
+
+<line x1="30" y1="30" x2="1170" y2="30" stroke="url(#line)" stroke-width="1.5"/>
+
+<line x1="240" y1="24" x2="240" y2="36" stroke="#58a6ff" stroke-width="1.5" opacity="0.9"/>
+<line x1="258" y1="26" x2="258" y2="34" stroke="#58a6ff" stroke-width="1.5" opacity="0.6"/>
+<line x1="276" y1="27" x2="276" y2="33" stroke="#58a6ff" stroke-width="1.5" opacity="0.35"/>
+
+<line x1="960" y1="24" x2="960" y2="36" stroke="#58a6ff" stroke-width="1.5" opacity="0.9"/>
+<line x1="942" y1="26" x2="942" y2="34" stroke="#58a6ff" stroke-width="1.5" opacity="0.6"/>
+<line x1="924" y1="27" x2="924" y2="33" stroke="#58a6ff" stroke-width="1.5" opacity="0.35"/>
+
+<rect x="578" y="18" width="44" height="24" rx="5" fill="#0d1117" stroke="#58a6ff" stroke-width="1.5" filter="url(#glow)"/>
+<circle cx="600" cy="30" r="3.5" fill="#79c0ff" filter="url(#glow)"/>
+
+<text x="600" y="14" text-anchor="middle" font-family="monospace" font-size="9" letter-spacing="3" fill="#3d5a76">SYSTEM_LINK</text>
+
+</svg>
