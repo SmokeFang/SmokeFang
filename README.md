@@ -55,4 +55,6 @@ I'm **SmokeFang** — I build things, break things, figure out why they broke, a
 </td>
 <td width="50%" valign="top">
 
+<br><br>
+
 <img src="https://raw.githubusercontent.com/SmokeFang/SmokeFang/main/assets/technoblade.svg" width="100%" alt="Technoblade never dies" />
