@@ -1,0 +1,28 @@
+<svg width="1200" height="50" viewBox="0 0 1200 50" xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="2.5" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+</defs>
+
+<rect width="1200" height="50" rx="10" fill="#080d14" stroke="#1c2b3d" stroke-width="1.5"/>
+
+<clipPath id="clip">
+  <rect x="2" y="2" width="1196" height="46" rx="9"/>
+</clipPath>
+
+<g clip-path="url(#clip)">
+  <g font-family="monospace" font-size="20" font-weight="bold" letter-spacing="4" fill="#4db8ff" filter="url(#glow)">
+    <text x="-700" y="33">
+      TECHNOBLADE NEVER DIES ✦ TECHNOBLADE NEVER DIES ✦ TECHNOBLADE NEVER DIES ✦
+      <animate attributeName="x" from="-700" to="1300" dur="16s" repeatCount="indefinite"/>
+    </text>
+  </g>
+</g>
+
+</svg>
